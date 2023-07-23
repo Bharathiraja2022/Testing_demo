@@ -13,6 +13,9 @@
     <classes>
       <class name="testCases.Delete_user"/>
     </classes></test>
+   <classes>
+      <class name="testCases.Dashboard_user"/>
+    </classes></test>
 </suite> 
 
 <!-- Suite -->
