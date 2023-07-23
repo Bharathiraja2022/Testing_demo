@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="HRM Test Suite">
+  <test name="Pending request test case">
+    <classes>
+      <class name="testCases.test_Pending_request"/>
+    </classes>
+  </test> <!-- Test -->
+  <!--<test name="Check user role test case">
+    <classes>
+      <class name="testCases.Test_user_role"/>
+    </classes></test>-->
+    <test name="Delete the user">
+    <classes>
+      <class name="testCases.Delete_user"/>
+    </classes></test>
+</suite> 
+
+<!-- Suite -->
